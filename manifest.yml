@@ -26,5 +26,6 @@ instance-groups:
     release: learn-bosh
     properties:
       port: 8080
+  vm_type: standard
   stemcell: default
   networks: public

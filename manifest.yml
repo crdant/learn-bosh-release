@@ -29,3 +29,4 @@ instance-groups:
   vm_type: standard
   stemcell: default
   networks: public
+  lifecycle: service
